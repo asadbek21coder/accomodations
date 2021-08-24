@@ -19,17 +19,17 @@
     address,
     additional_info
 ) values 
-(
-    1,
-    1,
-    'yevroremont',
-    'thisisanimageurl',
-    200,
-    6,
-    2,
-    'Shayxontoxur tumani falon kocha falon uy',
-    'bollarga'
-),
+-- (
+--     1,
+--     1,
+--     'yevroremont',
+--     'thisisanimageurl',
+--     200,
+--     6,
+--     2,
+--     'Shayxontoxur tumani falon kocha falon uy',
+--     'bollarga'
+-- ),
 (
     3,
     3,
